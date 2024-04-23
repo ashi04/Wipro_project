@@ -1,0 +1,18 @@
+10 Bhima 101.5
+Values scaned from file 10	101.500000	Bhima
+
+
+/*
+1. Capture Employee 10 records in the structure and store
+it in a file
+
+01 10001 Bhima 10001.5 M 99999 Kar
+02 10002 bhima2 10003. M 93833 Kar
+
+2.
+read the content from the records of Employee and 
+store in structure variable
+
+3. 
+read the contents of the file in reverse order and 
+print it on the another file
